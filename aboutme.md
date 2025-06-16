@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Your Trusted Real Estate Agent in the Bay Area
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+👋 Hi, I’m Sharon, a licensed real estate agent serving the Bay Area. Whether you're buying your first home, upgrading, or relocating, I’m here to make the process stress-free and rewarding.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What I Value Most
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+  - **Integrity:** Your trust is everything.
+  - **Responsiveness:** You’ll never feel left in the dark.
+  - **Local Knowledge:** I know the Dublin, CA market like the back of my hand.
+  - **Client First:** I listen deeply and tailor the experience to your goals.
